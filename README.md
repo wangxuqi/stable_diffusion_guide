@@ -1,0 +1,2 @@
+# stable_diffusion_guide
+中文的stable diffusion使用教程，包括模型训练和插件安装
